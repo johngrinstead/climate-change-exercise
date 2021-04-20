@@ -22,3 +22,17 @@
 
 ### Data Library
 
+|   Feature      |  Data Type   | Description    |
+| :------------- | :----------: | -----------: |
+|  dt | datetime64  | Date time of when the observation occured     |
+| AverageTemperature    | float64| Average temperature(C) of the observed period (Target)|
+| AverageTemperatureUncertainty  | float64 |  the 95% confidence interval around the average|
+| City | object |Name of the city in which the observation occured |
+|  Country    | object  | Name of the country in which the observation occured    |
+| Latitude   | object | Latitude of the location where the observation occured |
+| Longitude    | object| Longitude of the location where the observation occured|
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+### Conclusion
